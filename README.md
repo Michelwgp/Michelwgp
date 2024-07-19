@@ -22,9 +22,20 @@ uma transição de carreira.
 - UI/UX design
 - Aprender novas tecnologias
 
-Vamos construir coisas incríveis juntos! 🚀
+
+[![Michel GitHub stats](https://github-readme-stats.vercel.app/api?username=Michelwgp&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michelwgp&repo=github-readme-stats&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelwgp&hide_progress=true&show_icons=true&theme=tokyonight)
+                                                                                                                      
+
+Vamos construir coisas incríveis juntos! 🚀  
 
 
-![](https://komarev.com/ghpvc/?username=Michelwgp)
+![](https://komarev.com/ghpvc/?username=your-github-Michelwgp&label=Michelwgp&color=green)
 
 
+
+
+                                                                                                                                                                                
