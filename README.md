@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Meu nome é [seu nome] e sou um entusiasta de front-end.
+Meu nome é Michel Pires Stela e sou um entusiasta de front-end.
 Comecei minha jornada como programador aprendendo HTML e CSS.
 Atualmente, estou estudando JavaScript e me preparando para 
 uma transição de carreira.
